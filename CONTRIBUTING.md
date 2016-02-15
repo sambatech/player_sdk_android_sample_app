@@ -16,13 +16,13 @@ Por favor tenha certeza que seu pedido contenha:
 
 3) __Related issues__: Essa solicitação foi relatada anteriormente?
 
-4) __Suggest a fix__: Se não sabe como consertar mas tem uma boa ideia de como resolver, por favor entre em contato conosco.
+4) __Suggest a fix__: Se não sabe como resolver por conta própria mas tem uma boa ideia de como fazê-lo, por favor entre em contato conosco.
 
 ## Enviando um Pull request
 
 Ao enviar um [pull request](https://github.com/sambatech/player_sdk_android_sample_app/compare?expand=1) certifique-se que:
 
-1) Explique detalhadamente o que consertou ou adicionou com a referência da issue
+1) Explique detalhadamente o que resolveu ou adicionou com a referência da issue
 
 2) Explique como resolveu o bug ou adicionou a feature ( se for a última, explique o porquê é importante )
 
