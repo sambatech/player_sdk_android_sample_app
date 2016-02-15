@@ -1,4 +1,4 @@
-#Contribuindo para o  - Android
+#Contribuindo para o Samba Player SDK - Android
 
 Projetos Open source são um sucesso por apoio dos contribuidores da comunidade de desenvolvedores. Obrigado por considerar contribuir para o Samba Player SDK - Android!
 
