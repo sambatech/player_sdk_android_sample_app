@@ -22,8 +22,8 @@ Por favor tenha certeza que seu pedido contenha:
 
 Ao enviar um [pull request](https://github.com/sambatech/player_sdk_android_sample_app/compare?expand=1) certifique-se que:
 
-1) Explique detalhadamente o que você consertou ou adicionou com a referência da issue
+1) Explique detalhadamente o que consertou ou adicionou com a referência da issue
 
-2) Explique como consertou o bug ou adicionou a feature ( se for a última, explique o porque é importante )
+2) Explique como resolveu o bug ou adicionou a feature ( se for a última, explique o porque é importante )
 
 Obs: Os Pull requests serão avaliados individualmente por nossa equipe.
