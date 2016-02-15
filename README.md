@@ -17,4 +17,5 @@ Instalação do Java, Android SDK
 ## Como rodar a APP:
 
 1) Clone o projeto
+
 2) Rode em seu Android SDK Studio
