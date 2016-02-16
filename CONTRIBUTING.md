@@ -1,41 +1,29 @@
-#Contributing to Google Media Framework - Android
+#Contribuindo para o Samba Player SDK - Android
 
-Open source projects thrive because of contributions from the developer communitity. Thank you for
-considering contributing to Google Media Framework - Android!
+Projetos Open source são um sucesso por apoio dos contribuidores da comunidade de desenvolvedores. Obrigado por considerar contribuir para o Samba Player SDK - Android!
 
-## Sign the CLA
+## Issues e requisições de features
 
-Please sign our Contributor License Agreement (CLA) before sending pull requests. For any code
-changes to be accepted, the CLA must be signed. It's a quick process, we promise!
+Se achou um bug por favor reporte no endereço [zendesk](http://suporte.sambatech.com/hc/pt-br/requests/new). 
 
-* For individuals we have a [simple click-through form](http://code.google.com/legal/individual-cla-v1.0.html).
-* For corporations we'll need you to
-  [print, sign and one of scan+email, fax or mail the form](http://code.google.com/legal/corporate-cla-v1.0.html).
+Se deseja uma feature por favor peça no [feature](https://github.com/sambatech/player_sdk_android_sample_app/issues/new) e adicione o label 'enhancement'
 
-## Issues and Feature Requests
+Por favor tenha certeza que seu pedido contenha:
 
-If you've found a bug in the code, please submit an [issue](../../issues). 
+1) __Overview__: Qual é o bug ou feature que deseja?
 
-If you have a request for a new feature, please submit an [issue](../../issues) describing the feature.
+2) __Device, OS__: Se for um bug, qual aparelho e versão do Android ele acontece?
 
-Ensure that your issue includes the following information:
+3) __Related issues__: Essa solicitação foi relatada anteriormente?
 
-1) __Overview__: What is the bug or feature request you are describing?
+4) __Suggest a fix__: Se não sabe como resolver por conta própria mas tem uma boa ideia de como fazê-lo, por favor entre em contato conosco.
 
-2) __Device, OS__: If this is a bug, which Android hardware and operating system are you using? (ex. Nexus 5, OS 4.4.2)
+## Enviando um Pull request
 
-3) __Related issues__: Have similar issues been reported before?
+Ao enviar um [pull request](https://github.com/sambatech/player_sdk_android_sample_app/compare?expand=1) certifique-se que:
 
-4) __Suggest a fix__: If you can't fix the bug or implement the feature, but you know a good way to do it, please let us know!
+1) Explique detalhadamente o que resolveu ou adicionou com a referência da issue
 
-## Submitting a Pull Request
+2) Explique como resolveu o bug ou adicionou a feature ( se for a última, explique o porquê é importante )
 
-When submitting a [pull request](../../pulls), please ensure that you have done the following:
-
-1) Signed the CLA.
-
-2) Ensured that your code adheres to the [Google Java Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html) and the [Android Code Style Guide](https://source.android.com/source/code-style.html).
-
-3) Clearly explained what feature are implementing or what bug you are fixing.
-
-4) Outlined how you fixed the bug or implemented the feature.
+Obs: Os Pull requests serão avaliados individualmente por nossa equipe.
