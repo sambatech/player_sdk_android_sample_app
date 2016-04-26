@@ -1,9 +1,9 @@
-
 # Bem vindo ao Sample App do SambaPlayer SDK para Android
 
 ![sample app screenshot](http://i.imgur.com/PsrpYjJ.png)
 ![sample app screenshot](http://i.imgur.com/itH0xoW.png)
 ![sample app screenshot](http://i.imgur.com/PWjhCQo.png)
+
 
 # SambaPlayer SDK (Android)
 
